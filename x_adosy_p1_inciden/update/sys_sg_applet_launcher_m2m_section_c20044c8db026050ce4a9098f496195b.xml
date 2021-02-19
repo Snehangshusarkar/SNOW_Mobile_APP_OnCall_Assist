@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
     <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
-        <applet_launcher display_value="OnCall Assistance">35d59e1fdbb96c10ce4a9098f4961929</applet_launcher>
+        <applet_launcher display_value="OnCall Assist">35d59e1fdbb96c10ce4a9098f4961929</applet_launcher>
         <order>20</order>
         <section display_value="Upcoming FTS OnCalls">4a0044c8db026050ce4a9098f4961958</section>
         <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>

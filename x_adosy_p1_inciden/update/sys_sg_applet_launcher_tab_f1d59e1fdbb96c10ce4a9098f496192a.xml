@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
     <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
         <active>true</active>
-        <applet_launcher display_value="OnCall Assistance">35d59e1fdbb96c10ce4a9098f4961929</applet_launcher>
+        <applet_launcher display_value="OnCall Assist">35d59e1fdbb96c10ce4a9098f4961929</applet_launcher>
         <icon display_value="Home P1 Incidents">35d59e1fdbb96c10ce4a9098f496192a</icon>
         <label>OnCall</label>
         <roles>admin</roles>
