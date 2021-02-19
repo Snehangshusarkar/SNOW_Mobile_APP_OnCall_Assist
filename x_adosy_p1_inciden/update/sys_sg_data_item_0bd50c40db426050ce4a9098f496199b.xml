@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description>goto cse</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>goto cse</name>
+        <query_condition table="u_oncall_cse_list">^ORDERBYu_cse_start<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="u_cse_start"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-26 13:51:56</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0bd50c40db426050ce4a9098f496199b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>goto cse</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_data_item_0bd50c40db426050ce4a9098f496199b</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-26 13:51:56</sys_updated_on>
+        <table>u_oncall_cse_list</table>
+    </sys_sg_data_item>
+</record_update>

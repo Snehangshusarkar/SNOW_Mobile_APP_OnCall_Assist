@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">c83789fbdb166450827792c5d4961959</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">3f2789fbdb166450827792c5d4961956</icon>
+        <label>OnCall Assist Launcher Button Instance</label>
+        <location>top</location>
+        <name>OnCall Assist Launcher Button Instance</name>
+        <order/>
+        <parent>35d59e1fdbb96c10ce4a9098f4961929</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-02-19 20:30:17</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>003789fbdb166450827792c5d496195e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnCall Assist Launcher Button Instance</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_003789fbdb166450827792c5d496195e</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-02-19 20:30:17</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>58cc33676f716100869e7b2f5d3ee458</instance_id>
+        <instance_name>adobedev</instance_name>
+        <name>sys_sg_button_instance_003789fbdb166450827792c5d496195e</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">c83789fbdb166450827792c5d4961959</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">3f2789fbdb166450827792c5d4961956</icon><label>OnCall Assist Launcher Button Instance</label><location>top</location><name>OnCall Assist Launcher Button Instance</name><order/><parent>35d59e1fdbb96c10ce4a9098f4961929</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>snsarkar</sys_created_by><sys_created_on>2021-02-19 20:30:17</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>003789fbdb166450827792c5d496195e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>OnCall Assist Launcher Button Instance</sys_name><sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope><sys_update_name>sys_sg_button_instance_003789fbdb166450827792c5d496195e</sys_update_name><sys_updated_by>snsarkar</sys_updated_by><sys_updated_on>2021-02-19 20:30:17</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>-1636538569</payload_hash>
+        <record_name>OnCall Assist Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>e7f60df3db166450827792c5d4961930</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-02-19 20:30:17</sys_created_on>
+        <sys_id>4c3789fbdb166450827792c5d4961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177bbfc689b0000001</sys_recorded_at>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-02-19 20:30:17</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>443789fbc3166450232eb958e770d092</update_guid>
+        <update_guid_history>443789fbc3166450232eb958e770d092:-1636538569</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-02-19 20:30:25</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>595b02a00a8c4a3ab26e2d82a9014c04</sys_id>
+        <sys_metadata>003789fbdb166450827792c5d496195e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OnCall Assist Launcher Button Instance</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_scope_delete display_value="">23f31d9dc3ef4ea0967450f51ddc0041</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_003789fbdb166450827792c5d496195e</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_003789fbdb166450827792c5d496195e">4c3789fbdb166450827792c5d4961992</sys_update_version>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-02-19 20:30:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
