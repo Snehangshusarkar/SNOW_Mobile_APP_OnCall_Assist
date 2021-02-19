@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button display_value="OnCall Assistance Launcher Button Instance">9a9ec40cdb426050ce4a9098f4961988</header_button>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>OnCall Assistance</name>
+        <required_roles>admin</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-24 16:25:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>35d59e1fdbb96c10ce4a9098f4961929</sys_id>
+        <sys_mod_count>10</sys_mod_count>
+        <sys_name>OnCall Assistance</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_35d59e1fdbb96c10ce4a9098f4961929</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-26 14:30:06</sys_updated_on>
+        <title>OnCall Assistance</title>
+    </sys_sg_applet_launcher>
+</record_update>

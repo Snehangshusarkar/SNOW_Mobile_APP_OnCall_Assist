@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="Launcher Button">00ca6a2fdb35ec10ce4a9098f4961943</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon display_value="User Icon">37ba6a2fdb35ec10ce4a9098f4961940</icon>
+        <label>P1 Incidents Launcher Button Instance</label>
+        <location>top</location>
+        <name>P1 Incidents Launcher Button Instance</name>
+        <order/>
+        <parent>35d59e1fdbb96c10ce4a9098f4961929</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-25 12:35:23</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0cca6a2fdb35ec10ce4a9098f4961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>P1 Incidents Launcher Button Instance</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_0cca6a2fdb35ec10ce4a9098f4961953</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-25 12:35:23</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>58cc33676f716100869e7b2f5d3ee458</instance_id>
+        <instance_name>adobedev</instance_name>
+        <name>sys_sg_button_instance_0cca6a2fdb35ec10ce4a9098f4961953</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="Launcher Button">00ca6a2fdb35ec10ce4a9098f4961943</button><color_theme>primary</color_theme><description/><field_name/><icon display_value="User Icon">37ba6a2fdb35ec10ce4a9098f4961940</icon><label>P1 Incidents Launcher Button Instance</label><location>top</location><name>P1 Incidents Launcher Button Instance</name><order/><parent>35d59e1fdbb96c10ce4a9098f4961929</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>snsarkar</sys_created_by><sys_created_on>2021-01-25 12:35:23</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>0cca6a2fdb35ec10ce4a9098f4961953</sys_id><sys_mod_count>0</sys_mod_count><sys_name>P1 Incidents Launcher Button Instance</sys_name><sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope><sys_update_name>sys_sg_button_instance_0cca6a2fdb35ec10ce4a9098f4961953</sys_update_name><sys_updated_by>snsarkar</sys_updated_by><sys_updated_on>2021-01-25 12:35:23</sys_updated_on><table/></sys_sg_button_instance></record_update>]]></payload>
+        <payload_hash>1762525397</payload_hash>
+        <record_name>P1 Incidents Launcher Button Instance</record_name>
+        <reverted_from/>
+        <source>72a59adbdbb96c10ce4a9098f496194d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-25 12:35:23</sys_created_on>
+        <sys_id>c8ca6a2fdb35ec10ce4a9098f4961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177398aa4de0000001</sys_recorded_at>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-25 12:35:23</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>c0ca6a2f8a35ec101be9e326f93fec56</update_guid>
+        <update_guid_history>c0ca6a2f8a35ec101be9e326f93fec56:1762525397</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-25 13:17:43</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>54ee0801f2a64118bac821723a9f6209</sys_id>
+        <sys_metadata>0cca6a2fdb35ec10ce4a9098f4961953</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>P1 Incidents Launcher Button Instance</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_scope_delete display_value="">23f31d9dc3ef4ea0967450f51ddc0041</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_0cca6a2fdb35ec10ce4a9098f4961953</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_0cca6a2fdb35ec10ce4a9098f4961953">c8ca6a2fdb35ec10ce4a9098f4961956</sys_update_version>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-25 13:17:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

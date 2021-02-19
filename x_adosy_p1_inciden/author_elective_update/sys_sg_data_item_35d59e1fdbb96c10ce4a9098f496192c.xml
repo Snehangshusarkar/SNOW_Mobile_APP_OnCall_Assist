@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>Customer-facing P1 Incidents</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>P1 Incidents Incident</name>
+        <query_condition table="incident">u_customer_facing_p1=true^priority=1^stateIN1,2,4^ORDERBYDESCsys_updated_on<item endquery="false" field="u_customer_facing_p1" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/>
+            <item display_value="1,2,4" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2,4"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_updated_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-24 16:25:33</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>35d59e1fdbb96c10ce4a9098f496192c</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>P1 Incidents Incident</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_data_item_35d59e1fdbb96c10ce4a9098f496192c</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-24 16:33:38</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_data_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</application>
+        <comments/>
+        <file_path/>
+        <instance_id>58cc33676f716100869e7b2f5d3ee458</instance_id>
+        <instance_name>adobedev</instance_name>
+        <name>sys_sg_data_item_35d59e1fdbb96c10ce4a9098f496192c</name>
+        <order/>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>Customer-facing P1 Incidents</description><group_by/><instance_relative_url_qc/><name>P1 Incidents Incident</name><query_condition table="incident">u_customer_facing_p1=true^priority=1^stateIN1,2,4^ORDERBYDESCsys_updated_on<item endquery="false" field="u_customer_facing_p1" goto="false" newquery="false" operator="=" or="false" value="true"/><item display_value="1 - Critical" endquery="false" field="priority" goto="false" newquery="false" operator="=" or="false" value="1"/><item display_value="1,2,4" endquery="false" field="state" goto="false" newquery="false" operator="IN" or="false" value="1,2,4"/><item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_updated_on"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>snsarkar</sys_created_by><sys_created_on>2021-01-24 16:25:33</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>35d59e1fdbb96c10ce4a9098f496192c</sys_id><sys_mod_count>1</sys_mod_count><sys_name>P1 Incidents Incident</sys_name><sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope><sys_update_name>sys_sg_data_item_35d59e1fdbb96c10ce4a9098f496192c</sys_update_name><sys_updated_by>snsarkar</sys_updated_by><sys_updated_on>2021-01-24 16:33:38</sys_updated_on><table>incident</table></sys_sg_data_item></record_update>]]></payload>
+        <payload_hash>1838842708</payload_hash>
+        <record_name>P1 Incidents Incident</record_name>
+        <reverted_from/>
+        <source>72a59adbdbb96c10ce4a9098f496194d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-24 16:33:38</sys_created_on>
+        <sys_id>80b75257dbf96c10ce4a9098f4961977</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>177353e67690000001</sys_recorded_at>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-24 16:33:38</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>48b7525776f96c1033694f0313414376</update_guid>
+        <update_guid_history>48b7525776f96c1033694f0313414376:1838842708,d6d5129f4ab96c10180e65f0369bf712:1357688008</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-26 13:20:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>072bb5b20e6f4b4f87371639e947f461</sys_id>
+        <sys_metadata>35d59e1fdbb96c10ce4a9098f496192c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>P1 Incidents Incident</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_scope_delete display_value="">23f31d9dc3ef4ea0967450f51ddc0041</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_35d59e1fdbb96c10ce4a9098f496192c</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_35d59e1fdbb96c10ce4a9098f496192c">80b75257dbf96c10ce4a9098f4961977</sys_update_version>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-26 13:20:41</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

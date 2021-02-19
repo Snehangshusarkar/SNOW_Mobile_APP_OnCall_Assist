@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Incident)">42d5de5fdbb96c10ce4a9098f496194a</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete (Incident)</name>
+        <order>10</order>
+        <parent>06d5de5fdbb96c10ce4a9098f4961938</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-24 16:25:34</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>02d5de5fdbb96c10ce4a9098f496194d</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Delete (Incident)</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_button_instance_02d5de5fdbb96c10ce4a9098f496194d</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-24 16:37:46</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+</record_update>

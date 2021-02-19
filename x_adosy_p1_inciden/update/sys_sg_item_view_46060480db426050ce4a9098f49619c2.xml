@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_view">
+    <sys_sg_item_view action="INSERT_OR_UPDATE">
+        <data_item/>
+        <dependency_fields>u_cse_person-22123,u_cse_start-45539,u_cse_end-32753,u_cse_tz-7686</dependency_fields>
+        <item_view_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Children":[{"Type":"Text","Margin":{},"studio_template_field_id":"E1","TextColor":"#293e40","TextAlignment":"Left","MaxLines":2,"Font":{"Weight":"medium","Size":18},"CellId":"u_cse_person","Id":22123},{"Type":"ViewGroup","Margin":{"Top":12},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E2","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${u_cse_start}","Id":45538},{"Type":"Text","Margin":{},"studio_template_field_id":"E2","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"u_cse_start","Id":45539}],"Id":12260},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E3","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${u_cse_end}","Id":32752},{"Type":"Text","Margin":{},"studio_template_field_id":"E3","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"u_cse_end","Id":32753}],"Id":12261},{"Type":"ViewGroup","Margin":{"Top":8},"Orientation":"Horizontal","Alignment":"Center","Distribution":"Auto","Children":[{"Type":"Text","Margin":{"Right":8},"studio_template_is_label":true,"studio_template_field_id":"E4","TextColor":"#7d8a8c","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"Text":"${u_cse_tz}","Id":7685},{"Type":"Text","Margin":{},"studio_template_field_id":"E4","TextColor":"#293e40","TextAlignment":"Left","MaxLines":1,"Font":{"Weight":"regular","Size":13},"CellId":"u_cse_tz","Id":7686}],"Id":12262}],"studio_card_id":"10c47c9d23412300a8ed7f4fc7bf6536","Id":28090}</item_view_json>
+        <name>Goto CSE Header Item View</name>
+        <short_description/>
+        <sys_class_name>sys_sg_item_view</sys_class_name>
+        <sys_created_by>snsarkar</sys_created_by>
+        <sys_created_on>2021-01-26 13:52:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>46060480db426050ce4a9098f49619c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Goto CSE Header Item View</sys_name>
+        <sys_package display_value="P1 Incidents" source="x_adosy_p1_inciden">baa59adbdbb96c10ce4a9098f496194a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="P1 Incidents">baa59adbdbb96c10ce4a9098f496194a</sys_scope>
+        <sys_update_name>sys_sg_item_view_46060480db426050ce4a9098f49619c2</sys_update_name>
+        <sys_updated_by>snsarkar</sys_updated_by>
+        <sys_updated_on>2021-01-26 13:52:41</sys_updated_on>
+        <table>u_oncall_cse_list</table>
+        <ui_styles/>
+    </sys_sg_item_view>
+</record_update>
